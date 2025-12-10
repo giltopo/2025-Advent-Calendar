@@ -1,36 +1,35 @@
 const cards = [{
     img: "started.JPEG",
-    width: "350px",
     title: "Where It All Started",
     content: "The moment I saw you at camp, everything changed in the best way possible.",
     id: 1
 }, {
-    img: "1st_selfie.jpeg",
+    img: "1st_selfie.JPEG",
     title: "Our First Selfie",
     content: "Our very first selfie still makes me smile every time I see it on my camera roll. ",
     id: 2
 }, {
-    img: "laugh.jpeg",
+    img: "laugh.JPEG",
     title: "Our First Inside Joke",
     content: "Chule",
     id: 3
 }, {
-    img: "datenigh.jpeg",
+    img: "datenigh.JPEG",
     title: "Best Date Nights",
     content: "With you every date night is special. I just Love having your company no matter where.",
     id: 4
 }, {
-    img: "fav.jpeg",
+    img: "fav.JPEG",
     title: "Favorite Pictures of You",
     content: "I have so many favorite pictures of you. I could never only pick one. Every picture of you is my favorite.",
     id: 5
 }, {
-    img: "favfit.jpeg",
+    img: "favfit.JPEG",
     title: "Your Best Fit",
     content: "I love your style and all of the cute outfits you wear. Specially the sweater + jeans combo!",
     id: 6
 }, {
-    img: "roadtrip.jpeg",
+    img: "roadtrip.JPEG",
     title: "Our Road Trips",
     content: "Our first year together was full of little moments that still feel special to me.",
     id: 7
@@ -45,7 +44,7 @@ const cards = [{
     content: "Eating our favorite snack with you always turns a normal moment into a cute one.",
     id: 9
 }, {
-    img: "laugh.jpeg",
+    img: "laugh.JPEG",
     title: "Funniest Moment Together",
     content: "That moment we couldn’t stop laughing still lives rent-free in my brain forever.",
     id: 10
