@@ -48,11 +48,11 @@ const cards = [{
     title: "Funniest Moment Together",
     content: "That moment we couldn’t stop laughing still lives rent-free in my brain forever.",
     id: 10
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "A Moment I’ll Never Forget",
-    //     content: "There’s this small memory with you that always shows up when I need a smile.",
-    //     id: 11
+}, {
+    img: "gracey_zach.jpg",
+    title: "A Moment I’ll Never Forget",
+    content: "There’s this small memory with you that always shows up when I need a smile.",
+    id: 11
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The Thing You Say That I Love",
