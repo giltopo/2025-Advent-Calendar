@@ -31,7 +31,7 @@ const cards = [{
 }, {
     img: "roadtrip.JPEG",
     title: "Our Road Trips",
-    content: "Our first year together was full of little moments that still feel special to me.",
+    content: "I love our road trips together. Any long drive with you feels like minutes.",
     id: 7
 }, {
     img: "song.JPEG",
@@ -40,8 +40,8 @@ const cards = [{
     id: 8
 }, {
     img: "snack.JPEG",
-    title: "Favorite Snack We Share",
-    content: "Eating our favorite snack with you always turns a normal moment into a cute one.",
+    title: "Favorite Drink We Share",
+    content: "Drinking our favorite drink with you always turns a normal moment into a cute one.",
     id: 9
 }, {
     img: "funniest.JPEG",
