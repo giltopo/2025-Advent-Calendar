@@ -34,25 +34,25 @@ const cards = [{
     content: "Our first year together was full of little moments that still feel special to me.",
     id: 7
 }, {
-    img: "gracey_zach.jpg",
+    img: "song.JPEG",
     title: "Our Song",
     content: "Every time our song plays, it feels like a tiny reminder of how much I Love You. &darr;",
     id: 8
 }, {
-    img: "gracey_zach.jpg",
+    img: "snack.JPEG",
     title: "Favorite Snack We Share",
     content: "Eating our favorite snack with you always turns a normal moment into a cute one.",
     id: 9
 }, {
-    img: "laugh.JPEG",
+    img: "funniest.JPEG",
     title: "Funniest Moment Together",
     content: "That moment we couldn’t stop laughing still lives rent-free in my brain forever.",
     id: 10
-}, {
-    img: "gracey_zach.jpg",
-    title: "A Moment I’ll Never Forget",
-    content: "There’s this small memory with you that always shows up when I need a smile.",
-    id: 11
+    // }, {
+    //     img: "gracey_zach.jpg",
+    //     title: "A Moment I’ll Never Forget",
+    //     content: "There’s this small memory with you that always shows up when I need a smile.",
+    //     id: 11
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The Thing You Say That I Love",
