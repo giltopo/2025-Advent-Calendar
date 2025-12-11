@@ -54,10 +54,10 @@ const cards = [{
     content: "When we first kissed. I felt the happiest man alive. And you keep making me the happiest.",
     id: 11
     // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "The Thing You Say That I Love",
-    //     content: "You say something sometimes that makes me instantly feel warm, close to you, and just makes me laugh.",
-    //     id: 12
+    // img: "coffee.JPEG",
+    // title: "The Thing You Say That I Love",
+    // content: "Coffee and Eu Te Amo. It makes me instantly feel warm, close to you, and just makes me laugh.",
+    // id: 12
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Our Dream Trip",
@@ -91,22 +91,22 @@ const cards = [{
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Places I Want to Take You",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 19
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The First Time You Made Me Laugh",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 20
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Our Most Chaotic Moment",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 21
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Something I Learned Because of You",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 22
     // }, {
     //     img: "gracey_zach.jpg",
@@ -116,12 +116,12 @@ const cards = [{
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The Next Thing I’m Excited to Do With You",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 24
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "My Favorite Memory From This Year",
-    //     content: "The one of the most important day of my life was when I met you. I didn't know it would take me, but I am so happy I found you. ",
+    //     content: "",
     //     id: 25
 },]
 

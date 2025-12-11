@@ -2,6 +2,9 @@ body {
     min-block-size: 100vh;
     place-items: center;
     background-color: rgb(24, 80, 41);
+    background-image: url(assets/images/background.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
     grid-template-columns: (4, 1fr);
     max-width: 1200px;
     margin: auto;
@@ -76,5 +79,5 @@ body {
 }
 
 h2 {
-    margin: 0%;
+    margin: auto;
 }
