@@ -1,7 +1,7 @@
 const cards = [{
     img: "started.JPEG",
     title: "Where It All Started",
-    content: "The moment I saw you at camp, everything changed in the best way possible.",
+    content: "The moment I saw you at camp, everything changed in the best way possible. I knew I was going to make you mine.",
     id: 1
 }, {
     img: "1st_selfie.JPEG",
@@ -31,12 +31,12 @@ const cards = [{
 }, {
     img: "roadtrip.JPEG",
     title: "Our Road Trips",
-    content: "I love our road trips together. Any long drive with you feels like minutes.",
+    content: "I love our road trips together. Any long drive with you feels like minutes. And we know we are going to be listening to Hamilton.",
     id: 7
 }, {
     img: "song.JPEG",
     title: "Our Song",
-    content: "Every time our song plays, it feels like a tiny reminder of how much I Love You. &darr;",
+    content: "Every time our song plays, it feels like a tiny reminder of how much I Love You. So Much So Much So Much! &darr;",
     id: 8
 }, {
     img: "snack.JPEG",
@@ -48,11 +48,11 @@ const cards = [{
     title: "Funniest Moment Together",
     content: "That moment we couldn’t stop laughing still lives rent-free in my brain forever.",
     id: 10
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "A Moment I’ll Never Forget",
-    //     content: "There’s this small memory with you that always shows up when I need a smile.",
-    //     id: 11
+}, {
+    img: "moment.JPEG",
+    title: "A Moment I’ll Never Forget",
+    content: "When we first kissed. I felt the happiest man alive. And you keep making me the happiest.",
+    id: 11
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The Thing You Say That I Love",
