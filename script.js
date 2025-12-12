@@ -1,3 +1,14 @@
+window.addEventListener("load", () => {
+    const popUp = document.getElementById("popUp");
+    const closeBtn = document.getElementById("closePopUp");
+
+    popUp.style.display = "flex";
+
+    closeBtn.addEventListener("click", () => {
+        popUp.style.display = "none";
+    });
+});
+
 const cards = [{
     img: "started.JPEG",
     title: "Where It All Started",
@@ -53,11 +64,11 @@ const cards = [{
     title: "A Moment I’ll Never Forget",
     content: "When we first kissed. I felt the happiest man alive. And you keep making me the happiest.",
     id: 11
-    // }, {
-    // img: "coffee.JPEG",
-    // title: "The Thing You Say That I Love",
-    // content: "Coffee and Eu Te Amo. It makes me instantly feel warm, close to you, and just makes me laugh.",
-    // id: 12
+}, {
+    img: "coffee.JPEG",
+    title: "The Thing You Say That I Love",
+    content: "Coffee and Eu Te Amo. It makes me instantly feel warm, close to you, and just makes me laugh.",
+    id: 12
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Our Dream Trip",
