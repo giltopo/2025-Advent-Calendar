@@ -119,9 +119,14 @@ body {
         font-size: 16px;
         line-height: 1.4;
     }
+
+    .button {
+        margin-bottom: 25px;
+    }
 }
 
 #closePopUp:hover {
     background: #ffdada;
     transform: scale(1.05);
+    transition: 0.7s;
 }

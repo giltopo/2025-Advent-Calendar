@@ -69,11 +69,11 @@ const cards = [{
     title: "The Thing You Say That I Love",
     content: "Coffee and Eu Te Amo. It makes me instantly feel warm, close to you, and just makes me laugh.",
     id: 12
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Our Dream Trip",
-    //     content: "I love imagining the trip we’ll take one day and all the fun we’ll have there.(Manifesting this)",
-    //     id: 13
+    }, {
+        img: "dreamtrip.jpg",
+        title: "Our Dream Trip",
+        content: "I love imagining the trip we’ll take one day and all the fun we’ll have there.(Manifesting this)",
+        id: 13
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Things That Remind Me of You",
