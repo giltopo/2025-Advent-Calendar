@@ -74,11 +74,11 @@ const cards = [{
         title: "Our Dream Trip",
         content: "I love imagining the trip we’ll take one day and all the fun we’ll have there.(Manifesting this)",
         id: 13
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Things That Remind Me of You",
-    //     content: "Little things in my day randomly remind me of you and make everything nicer.",
-    //     id: 14
+    }, {
+        img: "deer.jpg",
+        title: "Things That Remind Me of You",
+        content: "Little things in my day randomly remind me of you and make everything nicer.",
+        id: 14
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "What I Want for Christmas",
