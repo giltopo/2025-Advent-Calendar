@@ -153,6 +153,19 @@ const cards = [{
     //     id: 25
 },]
 
+const loveNotes = [
+    "I Love the way You smile when you think no one’s watching.",
+    "You make everything feel lighter just by being there.",
+    "I’m so proud to be yours.",
+    "You’re my favorite part of every day.",
+    "I still get butterflies thinking about You.",
+    "I miss you more than I ever say out loud.",
+    "Loving You is the easiest thing I’ve ever done.",
+    "You make even the quiet moments perfect.",
+    "I choose You. Every time.",
+    "You feel like home to me."
+]
+
 function populateCards(id, list) {
     const cardsElement = document.getElementById(id)
     for (const card of list) {
@@ -165,5 +178,26 @@ function populateCards(id, list) {
     </div>`);
     }
 }
+function createMissMeFeature(containerId, messages) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    container.innerHTML = `<button class="miss-button">Click when you miss me &#128149;</button>
+    <p class="love-message"></p>`;
+
+    const button = container.querySelector(".miss-button");
+    const messageEl = container.querySelector(".love-message");
+
+    button.addEventListener("click", () => {
+        const randomIndex = Math.floor(Math.random() * messages.length);
+        messageEl.textContent = messages[randomIndex];
+
+        messageEl.classList.remove("show");
+        void messageEl.offsetWidth;
+        messageEl.classList.add("show");
+    });
+}
+
 
 populateCards('cards', cards)
+createMissMeFeature('missBtn', loveNotes)

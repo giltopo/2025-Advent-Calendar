@@ -118,15 +118,51 @@ body {
         margin: 12px 0 18px;
         font-size: 16px;
         line-height: 1.4;
+        color: #fff;
     }
-
+    
     .button {
         margin-bottom: 25px;
+        background-color: #055c00;
     }
 }
 
 #closePopUp:hover {
-    background: #ffdada;
+    background: #ffffff;
     transform: scale(1.05);
     transition: 0.7s;
+}
+
+.miss-me {
+    text-align: center;
+    display: block;
+    margin: 30px;
+}
+
+.miss-button {
+    background: #055c00;
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    font-size: 1.1rem;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.miss-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(123, 74, 226, 0.3);
+}
+
+.love-message {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    color: #ffffff;
+}
+
+.love-message.show {
+    opacity: 1;
 }
