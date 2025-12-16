@@ -100,11 +100,12 @@ const cards = [{
     content: "You! duh &darr; wink ",
     id: 15,
     url: "https://www.youtube.com/watch?v=aAkMkVFwAoo"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Cutest Picture of Us",
-    //     content: "There’s a photo of us that perfectly captures how happy we look together.",
-    //     id: 16
+}, {
+    img: "cutest.JPEG",
+    title: "Cutest Picture of Us",
+    content: "There’s a photo of us that perfectly captures how happy we look together. It also shows how beautiful your eyes are.",
+    id: 16,
+    url: "https://www.youtube.com/watch?v=Or-M9E0C27Q"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "My Favorite Habit You Have",
