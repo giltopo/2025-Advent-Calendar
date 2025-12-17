@@ -106,11 +106,12 @@ const cards = [{
     content: "There’s a photo of us that perfectly captures how happy we look together. It also shows how beautiful your eyes are.",
     id: 16,
     url: "https://www.youtube.com/watch?v=Or-M9E0C27Q"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "My Favorite Habit You Have",
-    //     content: "You have this tiny habit that always makes me pause and appreciate you more.",
-    //     id: 17
+}, {
+    img: "habit.JPEG",
+    title: "My Favorite Habit You Have",
+    content: "You have this tiny habit that always makes me pause and appreciate you more.",
+    id: 17,
+    url: "https://www.youtube.com/watch?v=-BjZmE2gtdo"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Places We’ve Been Together",
@@ -197,7 +198,6 @@ function createMissMeFeature(containerId, messages) {
         messageEl.classList.add("show");
     });
 }
-
 
 populateCards('cards', cards)
 createMissMeFeature('missBtn', loveNotes)
