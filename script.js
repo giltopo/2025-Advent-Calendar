@@ -116,7 +116,8 @@ const cards = [{
     img: "ordinary.JPEG",
     title: "The Way You Make Ordinary Days Special",
     content: "Even the days where we just see each other and be with other watching TV, yet so special since I am with you!",
-    id: 18
+    id: 18,
+    url: "https://www.youtube.com/watch?v=m-v-LGOfaKo"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Places I Want to Take You",
