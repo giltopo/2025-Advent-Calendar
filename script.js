@@ -112,11 +112,11 @@ const cards = [{
     content: "You have this tiny habit that always makes me pause and appreciate you more.",
     id: 17,
     url: "https://www.youtube.com/watch?v=-BjZmE2gtdo"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Places We’ve Been Together",
-    //     content: "Out of everything this year, a simple moment with you became my favorite one.",
-    //     id: 18
+}, {
+    img: "ordinary.JPEG",
+    title: "The Way You Make Ordinary Days Special",
+    content: "Even the days where we just see each other and be with other watching TV, yet so special since I am with you!",
+    id: 18
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Places I Want to Take You",
@@ -164,7 +164,8 @@ const loveNotes = [
     "Loving You is the easiest thing I’ve ever done.",
     "You make even the quiet moments perfect.",
     "I choose You. Every time.",
-    "You feel like home to me."
+    "You feel like home to me.",
+    "You make life so much easier."
 ]
 
 function populateCards(id, list) {
