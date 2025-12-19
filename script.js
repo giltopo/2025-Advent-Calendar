@@ -118,11 +118,13 @@ const cards = [{
     content: "Even the days where we just see each other and be with other watching TV, yet so special since I am with you!",
     id: 18,
     url: "https://www.youtube.com/watch?v=m-v-LGOfaKo"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Places I Want to Take You",
-    //     content: "",
-    //     id: 19
+}, {
+    img: "future.jpg",
+    title: "Our Future, As I See It",
+    content: "I see my future in your eyes. And I can't wait to live with and Love you for the rest of my life!",
+    id: 19,
+    url: "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+    color: "#ff0000ff"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The First Time You Made Me Laugh",
@@ -175,7 +177,7 @@ function populateCards(id, list) {
         cardsElement.insertAdjacentHTML('beforeend', `<div class="card" style="background-image: url('assets/images/${card.img}')">
         <div class="card-content">
             <h2>${card.title}</h2>
-            <p>${card.content}</p>
+            <p style="color: ${card.color}">${card.content}</p>
             <a href="${card.url}" class="button" target="_blank">&hearts;</a>
         </div>
     </div>`);
