@@ -125,11 +125,12 @@ const cards = [{
     id: 19,
     url: "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
     color: "#ff0000ff"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "The First Time You Made Me Laugh",
-    //     content: "",
-    //     id: 20
+}, {
+    img: "lighter.JPEG",
+    title: "The Way You Make Everything Lighter",
+    content: "No matter how difficult a day feels, being with you always makes it lighter. You don’t even try, you just do.",
+    id: 20,
+    url: "https://www.youtube.com/watch?v=PEM0Vs8jf1w"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "Our Most Chaotic Moment",
