@@ -131,16 +131,18 @@ const cards = [{
     content: "No matter how difficult a day feels, being with you always makes it lighter. You don’t even try, you just do.",
     id: 20,
     url: "https://www.youtube.com/watch?v=PEM0Vs8jf1w"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Our Most Chaotic Moment",
-    //     content: "",
-    //     id: 21
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "Something I Learned Because of You",
-    //     content: "",
-    //     id: 22
+}, {
+    img: "hamilton.JPEG",
+    title: "Our Most Chaotic Moment",
+    content: "Definetely when we had to head to NYC to watch Hamilton for the first time. In the end it was so worth it!",
+    id: 21,
+    url: "https://www.youtube.com/watch?v=cuyMAneJqms"
+}, {
+    img: "learned.JPEG",
+    title: "Something I Learned Because of You",
+    content: "To Love and to Be Loved, Musicals, English, some of the names of my bones, ice skate, and much more.",
+    id: 22,
+    url: "https://www.youtube.com/watch?v=MTHxAzSYBDc"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "A Perfect Lazy Day With You",
