@@ -142,12 +142,13 @@ const cards = [{
     title: "Something I Learned Because of You",
     content: "To Love and to Be Loved, Musicals, English, some of the names of my bones, ice skate, and much more.",
     id: 22,
-    url: "https://www.youtube.com/watch?v=MTHxAzSYBDc"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "A Perfect Lazy Day With You",
-    //     content: "My ideal lazy day is simply us relaxing, watching TV, crafts, talking, and existing near each other.",
-    //     id: 23
+    url: "https://www.youtube.com/watch?v=x81WQqAt76Y"
+}, {
+    img: "lazy.JPEG",
+    title: "A Perfect Lazy Day With You",
+    content: "My ideal lazy day is simply us relaxing, watching TV, crafts, talking, and existing near each other.",
+    id: 23,
+    url: "https://www.youtube.com/watch?v=S2Cti12XBw4"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "The Next Thing I’m Excited to Do With You",
