@@ -149,11 +149,12 @@ const cards = [{
     content: "My ideal lazy day is simply us relaxing, watching TV, crafts, talking, and existing near each other.",
     id: 23,
     url: "https://www.youtube.com/watch?v=S2Cti12XBw4"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "The Next Thing I’m Excited to Do With You",
-    //     content: "",
-    //     id: 24
+}, {
+    img: "dreams.PNG",
+    title: "The Next Thing I’m Excited to Do With You",
+    content: "Another New Years by your side. I am hoping many exciting things to happen, and lots of accomplishments!",
+    id: 24,
+    url: "https://www.youtube.com/watch?v=pSQk-4fddDI"
     // }, {
     //     img: "gracey_zach.jpg",
     //     title: "My Favorite Memory From This Year",
