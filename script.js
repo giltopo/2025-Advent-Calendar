@@ -155,11 +155,11 @@ const cards = [{
     content: "Another New Years by your side. I am hoping many exciting things to happen, and lots of accomplishments!",
     id: 24,
     url: "https://www.youtube.com/watch?v=pSQk-4fddDI"
-    // }, {
-    //     img: "gracey_zach.jpg",
-    //     title: "My Favorite Memory From This Year",
-    //     content: "",
-    //     id: 25
+}, {
+    img: "memory.JPEG",
+    title: "My Favorite Memory From This Year",
+    content: "Being with you over New Year's and for 2 weeks! I had lots of fun and being with you made my year.",
+    id: 25
 },]
 
 const loveNotes = [
